@@ -1,0 +1,27 @@
+{
+  "name": "kraken-devtools-browserify",
+  "description": "Browserify plugin for kraken-devtools",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iantocristian/kraken-devtools-browserify"
+  },
+  "main": "index",
+  "keywords": [
+    "kraken",
+    "krakenjs",
+    "devtools",
+    "browserify"
+  ],
+  "dependencies": {
+    "browserify": "~5.9.0"
+  },
+  "devDependencies": {
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/iantocristian/kraken-devtools-browserify/raw/master/LICENSE"
+    }
+  ]
+}
