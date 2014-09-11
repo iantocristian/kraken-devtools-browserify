@@ -12,7 +12,7 @@ module.exports = function (options) {
   return function (data, args, callback) {
     //console.log(JSON.stringify(args, null, 4));
 
-    var b = browserify();
+    var b = browserify({ debug: true });
     b.add(path.join(args.context.srcRoot, args.context.filePath));
     b.bundle(callback);
   };
