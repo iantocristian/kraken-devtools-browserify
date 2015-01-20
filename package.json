@@ -1,7 +1,7 @@
 {
   "name": "kraken-devtools-browserify",
   "description": "Browserify plugin for kraken-devtools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/iantocristian/kraken-devtools-browserify"
