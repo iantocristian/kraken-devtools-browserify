@@ -6,6 +6,12 @@ Browserify plugin for kraken-devtools
 
 ## Usage
 
+Install:
+
+```bash
+$ npm install --save-dev kraken-devtools-browserify
+```
+
 Add:
 
 ```json
